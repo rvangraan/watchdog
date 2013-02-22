@@ -1,3 +1,7 @@
+%%% File    : watchdog.erl
+%%% Author  : Rudolph van Graanx
+%%% Description : Use this utils module for code that 
+
 -module(watchdog).
 
 
